@@ -12,8 +12,8 @@ https://github.com/maxgabba/webanalytics-test
 
 <iframe src="https://docs.google.com/presentation/d/1cEd02RnNJ72K08t1m_C0GtwxG-8bSn3R-VY8ujC2TrE/embed?start=false&loop=false&delayms=30000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-https://ga-dev-tools.appspot.com/
+[Компоновщик UTM Google и ещё куча всего полезного](https://ga-dev-tools.appspot.com/)
 
-http://prometriki.ru/komponovshik-url/
+[Компоновщик UTM для Яндекс Директа](http://prometriki.ru/komponovshik-url/)
 
-http://sbjs.rocks/sourcebuster
+[Не компоновщик, но тоже полезно](http://sbjs.rocks/sourcebuster)
