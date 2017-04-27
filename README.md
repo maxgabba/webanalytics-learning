@@ -26,4 +26,13 @@ https://github.com/maxgabba/webanalytics-test
 
 <iframe src="https://docs.google.com/presentation/d/13AWcAtMDZmhvpf3beJXRxLKOgJqGA0NcM4-yYEgzHK0/embed?start=false&loop=false&delayms=30000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Ссылка на 3 презентацию]
+[Ссылка на 3 презентацию](https://github.com/maxgabba/webanalytics-learning/blob/master/IT-Practicum%20%D0%B2%D0%B5%D0%B1-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%204%20%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5.pdf)
+
+У нас было 2 основных системы аналитики, 75 разных обязательных отчётов, 5 способов выгрузки данных по API, полчаса консультации с Максом Уваровым и бесконечное множество плагинов к Excel всех сортов и расцветок, а также Power BI, Google Sheets, сервер с R, таблица с расчётом UNIT-экономики и год оплаченного Tableau .... 
+
+Не то чтобы это был необходимый запас для анализа данных, но раз уж начал заниматься веб-аналитикой, то сложно остановиться…
+
+Единственное, что меня беспокоило — это UNIT экономика. В мире нет никого более беспомощного, безответственного и безнравственного, чем человек рассчитывающий LTV клиента в сквозной аналитике.
+
+И я знал, что довольно скоро мы в это окунёмся.
+
