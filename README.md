@@ -36,3 +36,4 @@ https://github.com/maxgabba/webanalytics-test
 
 И я знал, что довольно скоро мы в это окунёмся.
 
+<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=Mm5jNmdhNGllYm5tb2IzcmV0MjJyYTY3aGtfMjAxNzA1MzBUMDgwMDAwWiByaWRlcm8ucnVfbGlvdmRxNnNhcHZsZzQycDJhYzZpNDd1bTBAZw&amp;tmsrc=ridero.ru_liovdq6sapvlg42p2ac6i47um0%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
