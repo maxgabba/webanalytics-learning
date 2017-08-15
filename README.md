@@ -2,7 +2,7 @@
 # webanalytics-learning
 ## Основы веб-аналитики
 ### 1 занятие
-<iframe src="https://docs.google.com/presentation/d/18Xg0MNb8rOcWLyByhzYJIncMZQKxbXE1zkg5-tWEYEA/embed?start=false&loop=false&delayms=30000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1zC0yF7uHZxBpoeA84ssv2voIzNwLGFDFk_GxAYswpk4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdVlagHSPY1x3mQBIjjuqDxvgTuGavAW_cHKYis7TyhQ8HjAw/viewform?embedded=true" width="480" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
