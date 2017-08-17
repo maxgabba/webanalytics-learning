@@ -3,3 +3,12 @@
 ## Основы веб-аналитики
 ### 1 занятие
 <iframe src="https://docs.google.com/presentation/d/1zC0yF7uHZxBpoeA84ssv2voIzNwLGFDFk_GxAYswpk4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### 2 занятие
+<iframe src="https://docs.google.com/presentation/d/1mapJmIdwjXklxDRVqLY3f3_eAaJ0Uc1uYGQ4qMBJ0_8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+https://github.com/maxgabba/webanalytics-test
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdVlagHSPY1x3mQBIjjuqDxvgTuGavAW_cHKYis7TyhQ8HjAw/viewform?embedded=true" width="480" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
