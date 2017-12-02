@@ -4,8 +4,8 @@
 ### 1 занятие
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4elgL2kfXe6x4kaahnj20JF4zwShzFkECQbZY_Gad8fkZPjgrRM3pXt6fOblIZEddu1xxt6OMDVpI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### 2 и 3 занятие
-<iframe src="https://docs.google.com/presentation/d/1mapJmIdwjXklxDRVqLY3f3_eAaJ0Uc1uYGQ4qMBJ0_8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+### 2 занятие
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQq8uXjSEgt-P5KjJyhChVW7Hh376NBEk9tqRei-A9v65KZZM9Q-P6sQBoYnPOkSsuzpAdGUaDpryr3/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 https://github.com/maxgabba/webanalytics-test
 
