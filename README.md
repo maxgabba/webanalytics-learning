@@ -8,7 +8,7 @@
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTerE_oS06S-RvPO2yKZkob9n1mVh95INpYu04GhUca7MvO2GuZ_q_1uiXFhBwgL1-joo3R4U7XdfIG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-### 2 занятие
+### 3 занятие
 https://github.com/maxgabba/webanalytics-test
 
 
