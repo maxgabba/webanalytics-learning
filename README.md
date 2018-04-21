@@ -9,8 +9,9 @@
 
 
 ### 3 занятие
-https://github.com/maxgabba/webanalytics-test
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbf9AIggtQZXfi3E6LHhgzokrIbG45I7rnHWd5sSZKQ1bFV0iZ5ExL_Kj1mr_0MfYb3O_qS8wYItUH/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+https://github.com/maxgabba/webanalytics-test
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdVlagHSPY1x3mQBIjjuqDxvgTuGavAW_cHKYis7TyhQ8HjAw/viewform?embedded=true" width="480" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка опроса...</iframe>
 
